@@ -1,39 +1,30 @@
 # Intro <br>简介
 
-This light-weight App allows you to use any image as a transparent overlay on your camera, so that you can use it as a guide to take the best shot! Perfect solution when you don't have a tripod at hand.
-</br>
+This light-weight App allows you to use any image as a transparent overlay on your camera, so that you can use it as a guide to take the best shot! Perfect solution when you don't have a tripod at hand.  
 这款轻巧的应用可以让你在照相时，将任何一张图片以半透明式覆盖在镜头上，这样你就能以图片为参考，拍出最棒的照片！没有三脚架时的绝佳方案。
 
-The transparency of image is adjustable.
-</br>
+The transparency of image is adjustable.  
 图片的透明度可以调节。
 
-Use it when you want to make:
-</br>
+Use it when you want to make:  
 适用于以下场景：
 
-● Revisiting photos
-</br>
+● Revisiting photos  
 故地重游纪念照
 
-● Stop motion movies
-</br>
+● Stop motion movies  
 定格动画
 
-● Photography based on golden composition
-</br>
+● Photography based on golden composition  
 黄金构图摄影
 
-The landscape orientation is not supported yet. This feature may be added in later versions. If you need to use a wide image, please change its orientation before loading it in Timera.
-</br>
+The landscape orientation is not supported yet. This feature may be added in later versions. If you need to use a wide image, please change its orientation before loading it in Timera.  
 暂不支持横屏模式。这一功能也许会添加在后续版本中。如果需要载入一张横向图片，那么请先修改它的方向，再在应用中载入它。
 
-Contact: aliciatan4edu+timera@gmail.com
-</br>
+Contact: aliciatan4edu+timera@gmail.com  
 联系方式: aliciatan4edu+timera@gmail.com
 
-(Please keep '+timera' in the address, so that I can provide quicker replies.)
-</br>
+(Please keep '+timera' in the address, so that I can provide quicker replies.)  
 (请保留地址中的 '+timera' 部分，这样我才能更好地回复您！)
 
 # Privacy Policy <br>隐私政策
